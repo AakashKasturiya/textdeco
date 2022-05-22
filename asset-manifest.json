@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/textdeco/static/css/main.34becde6.css",
-    "main.js": "/textdeco/static/js/main.39ce7d0f.js",
+    "main.css": "/textdeco/static/css/main.dff41736.css",
+    "main.js": "/textdeco/static/js/main.191b5879.js",
     "index.html": "/textdeco/index.html",
-    "main.34becde6.css.map": "/textdeco/static/css/main.34becde6.css.map",
-    "main.39ce7d0f.js.map": "/textdeco/static/js/main.39ce7d0f.js.map"
+    "main.dff41736.css.map": "/textdeco/static/css/main.dff41736.css.map",
+    "main.191b5879.js.map": "/textdeco/static/js/main.191b5879.js.map"
   },
   "entrypoints": [
-    "static/css/main.34becde6.css",
-    "static/js/main.39ce7d0f.js"
+    "static/css/main.dff41736.css",
+    "static/js/main.191b5879.js"
   ]
 }
